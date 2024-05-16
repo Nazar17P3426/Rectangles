@@ -1,2 +1,2 @@
-# Rectangles.exe-my-first-joke-program-
-thanks to pankoza for the code :D
+# Rectangles
+C++ skidded GDI joke program by Comium92
